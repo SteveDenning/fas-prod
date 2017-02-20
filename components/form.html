@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<!--[if IE 8]> <html class=" lt-ie9" lang="en" dir="ltr"> <![endif]-->
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Component - Form components</title>
+	<link rel="stylesheet" href="../style/default.css"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+</head>
+<body>
+	<div class="page-container">
+		<h2 class="index-title">Forms</h2>
+		<div class="page-wrapper">
+
+			<div class="grid__row">
+				<div class="col-sm-12 col-lg-3">
+					<label for="input-field-01" class="input-field">Input field label taext</label>
+					<input type="text" name="input-field-01" placeholder="Name" id="input-field-01" class="input-field">
+				</div>
+			</div>
+
+			<div class="grid__row">
+				<div class="col-sm-12 col-lg-3">
+					<label for="textarea-01" class="input-field">Text area</label>
+					<textarea name="textarea-01" id="textarea-01" cols="30" rows="10" placeholder="Message"></textarea>
+				</div>
+			</div>
+
+			<div class="grid__row">
+				<div class="col-sm-12 col-lg-3">
+					<fieldset>
+					<legend class="legend">Radio buttons</legend>
+						<form class="checkbox">
+							<input type="checkbox" name="confirm" id="check1" value="1">
+							<label for="check1" class=""><span></span>I am a checkbox</label>
+						</form>
+						<p class="error"></p>
+					</fieldset>
+				</div>
+			</div>
+
+			<div class="grid__row">
+				<div class="col-sm-12 col-lg-12">
+					<fieldset>
+						<legend class="legend">Check boxes</legend>
+							<form name="deferRadioForm" class="radio-buttons">
+								<input type="radio" name="option" id="radio1" value="" checked="">
+								<label for="radio1">Option 1</label>
+								<input type="radio" name="option" id="radio2" value="">
+								<label for="radio2">Option 2</label>
+							</form>
+					</fieldset>
+				</div>
+			</div>
+			
+		</div>
+	</div>
+</body>
+</html>
