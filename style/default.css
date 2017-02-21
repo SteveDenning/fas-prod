@@ -4524,7 +4524,7 @@ h2.index-heading {
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_content\.scss}line{font-family:\0000320}}
 .email a:before {
-  background: url("/images/background/email.png") no-repeat;
+  background: url("../images/background/email.png") no-repeat;
   content: "";
   display: inline-block;
   height: 35px;
@@ -4540,7 +4540,7 @@ h2.index-heading {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_content\.scss}line{font-family:\0000335}}
 .body.sent-mail-bg {
-  background: url("/images/background/sent-mail.jpg") no-repeat;
+  background: url("../images/background/sent-mail.jpg") no-repeat;
   background-size: cover;
   text-align: center;
 }
