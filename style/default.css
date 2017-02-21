@@ -4553,33 +4553,17 @@ h2.index-heading {
   text-decoration: underline;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_content\.scss}line{font-family:\0000336}}
-.body.sent-mail-bg {
-  background: url("../images/background/sent-mail.jpg") no-repeat;
-  background-size: cover;
-  text-align: center;
-}
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_content\.scss}line{font-family:\0000341}}
-.body.location {
-  background-image: url("../images/background/map-overlay.jpg");
-  background-size: cover;
-}
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_content\.scss}line{font-family:\0000344}}
-.body.location p, .body.location .heading {
-  color: #ffffff;
-}
-
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_content\.scss}line{font-family:\0000349}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_content\.scss}line{font-family:\0000335}}
 .sent-mail {
   padding: 200px 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_content\.scss}line{font-family:\0000352}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_content\.scss}line{font-family:\0000338}}
 .mobile {
   color: #00FF00;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_content\.scss}line{font-family:\0000355}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_content\.scss}line{font-family:\0000341}}
 p.phone,
 a.phone {
   color: #00FF00;
@@ -4587,7 +4571,7 @@ a.phone {
   padding-left: 33px;
   position: relative;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_content\.scss}line{font-family:\0000361}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_content\.scss}line{font-family:\0000347}}
 p.phone:before,
 a.phone:before {
   background: url("/images/background/phone.png") no-repeat;
