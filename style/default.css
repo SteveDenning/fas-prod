@@ -4479,7 +4479,12 @@ img {
   margin-bottom: 30px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_typography\.scss}line{font-family:\00003137}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_typography\.scss}line{font-family:\00003129}}
+.center-align {
+  text-align: center;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_typography\.scss}line{font-family:\00003139}}
 h2.index-title, h2.index-heading {
   font-size: 2em;
   color: #333;
@@ -4487,13 +4492,13 @@ h2.index-title, h2.index-heading {
   margin: 20px;
 }
 @media only screen and (min-width: 48.063em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_typography\.scss}line{font-family:\00003137}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_typography\.scss}line{font-family:\00003139}}
   h2.index-title, h2.index-heading {
     font-size: 3em;
   }
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_typography\.scss}line{font-family:\00003146}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_typography\.scss}line{font-family:\00003148}}
 h2.index-heading {
   font-size: 2.5em;
   padding-left: 0;
@@ -7392,13 +7397,12 @@ body.lb-disable-scrolling {
 @media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_body-themes\.scss}line{font-family:\000032}}
 .body.sent-mail-bg {
   background: url("../images/background/sent-mail.jpg") no-repeat;
-  text-align: center;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_body-themes\.scss}line{font-family:\000036}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_body-themes\.scss}line{font-family:\000035}}
 .body.location {
   background-image: url("../images/background/map-overlay.jpg");
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_body-themes\.scss}line{font-family:\000038}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_body-themes\.scss}line{font-family:\000037}}
 .body.location p, .body.location .heading {
   color: #ffffff;
 }
