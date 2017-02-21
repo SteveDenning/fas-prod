@@ -281,7 +281,12 @@
     padding: 0 16px 16px;
   }
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\00003106}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\00003105}}
+.page-wrapper {
+  position: relative;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\00003108}}
 .page-wrapper, .header-wrapper {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -300,14 +305,14 @@
   display: block;
 }
 @media only screen and (min-width: 30em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\00003106}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\00003108}}
   .page-wrapper, .header-wrapper {
     padding-left: 10px;
     padding-right: 10px;
   }
 }
 @media only screen and (min-width: 48.063em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\00003106}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\00003108}}
   .page-wrapper, .header-wrapper {
     max-width: 1200px;
     margin: 0 auto;
@@ -316,12 +321,12 @@
   }
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\00003124}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\00003126}}
 .header-wrapper {
   margin-top: 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\00003128}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\00003130}}
 .exampleGrid span {
   font-size: 20px;
   text-align: center;

@@ -33,7 +33,7 @@
 		</header>
 		<nav class="main-nav">
 			<div class="sideMenuContainer">
-				<div class="mobileButtonOpen"><span class="accessible">Mobile Menu buttton</span></div>
+				
 				<ul>
 				    <li><a href="#">Home</a></li>
 				    <li class="dropdown">
@@ -64,6 +64,7 @@
 			</div>
 		</nav>
 		<div class="page-wrapper">
+			<div class="mobileButtonOpen"><span class="accessible">Mobile Menu buttton</span></div>
 			<div class="grid__row">
 				<div class="col-sm-12 col-md-6 col-lg-6">
 					<div class="grid__row">

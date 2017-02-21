@@ -4029,7 +4029,12 @@
   }
 }
 @media screen, projection {
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\00003106}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\00003105}}
+  .page-wrapper {
+    position: relative;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\00003108}}
   .page-wrapper, .header-wrapper {
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
@@ -4049,14 +4054,14 @@
   }
 }
 @media only screen and (min-width: 30em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\00003106}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\00003108}}
   .page-wrapper, .header-wrapper {
     padding-left: 10px;
     padding-right: 10px;
   }
 }
 @media only screen and (min-width: 48.063em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\00003106}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\00003108}}
   .page-wrapper, .header-wrapper {
     max-width: 1200px;
     margin: 0 auto;
@@ -4066,12 +4071,12 @@
 }
 
 @media screen, projection {
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\00003124}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\00003126}}
   .header-wrapper {
     margin-top: 0;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\00003128}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\00003130}}
   .exampleGrid span {
     font-size: 20px;
     text-align: center;
@@ -4457,7 +4462,14 @@ img {
   font-family: 'Raleway', sans-serif;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_typography\.scss}line{font-family:\00003122}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_typography\.scss}line{font-family:\00003112}}
+.section-heading {
+  border-left: 3px solid #00FF00;
+  padding: 0 0 0 5px;
+  margin: 30px 0;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_typography\.scss}line{font-family:\00003128}}
 h2.index-title, h2.index-heading {
   font-size: 2em;
   color: #333;
@@ -4465,13 +4477,13 @@ h2.index-title, h2.index-heading {
   margin: 20px;
 }
 @media only screen and (min-width: 48.063em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_typography\.scss}line{font-family:\00003122}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_typography\.scss}line{font-family:\00003128}}
   h2.index-title, h2.index-heading {
     font-size: 3em;
   }
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_typography\.scss}line{font-family:\00003131}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_typography\.scss}line{font-family:\00003137}}
 h2.index-heading {
   font-size: 2.5em;
   padding-left: 0;
@@ -4527,11 +4539,23 @@ h2.index-heading {
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_content\.scss}line{font-family:\0000335}}
+.body.sent-mail-bg {
+  background: url("/images/background/sent-mail.jpg") no-repeat;
+  background-size: cover;
+  text-align: center;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_content\.scss}line{font-family:\0000340}}
+.sent-mail {
+  padding: 200px 0;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_content\.scss}line{font-family:\0000343}}
 .mobile {
   color: #00FF00;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_content\.scss}line{font-family:\0000338}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_content\.scss}line{font-family:\0000346}}
 p.phone,
 a.phone {
   color: #00FF00;
@@ -4539,7 +4563,7 @@ a.phone {
   padding-left: 33px;
   position: relative;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_content\.scss}line{font-family:\0000344}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_content\.scss}line{font-family:\0000352}}
 p.phone:before,
 a.phone:before {
   background: url("/images/background/phone.png") no-repeat;
@@ -4618,10 +4642,12 @@ nav.main-nav a {
 @media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_main-navigation\.scss}line{font-family:\000033}}
   nav.main-nav {
     display: block;
+    position: relative;
+    z-index: 10;
     /* hide sub menu links */
     /* show arrows for dropdowns */
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_main-navigation\.scss}line{font-family:\0000333}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_main-navigation\.scss}line{font-family:\0000334}}
   nav.main-nav a {
     display: block;
     line-height: 40px;
@@ -4629,32 +4655,32 @@ nav.main-nav a {
     padding: 0 30px;
     text-decoration: none;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_main-navigation\.scss}line{font-family:\0000339}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_main-navigation\.scss}line{font-family:\0000340}}
   nav.main-nav a:hover, nav.main-nav a:focus, nav.main-nav a:active {
     color: #00FF00;
     background: none;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_main-navigation\.scss}line{font-family:\0000346}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_main-navigation\.scss}line{font-family:\0000347}}
   nav.main-nav li {
     padding-bottom: 0;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_main-navigation\.scss}line{font-family:\0000349}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_main-navigation\.scss}line{font-family:\0000350}}
   nav.main-nav ul > li {
     width: 150px;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_main-navigation\.scss}line{font-family:\0000353}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_main-navigation\.scss}line{font-family:\0000354}}
   nav.main-nav ul.sub-menu {
     display: none;
     margin-left: 0;
     text-align: left;
     margin-top: 0;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_main-navigation\.scss}line{font-family:\0000360}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_main-navigation\.scss}line{font-family:\0000361}}
   nav.main-nav li.dropdown > a {
     position: relative;
     padding-bottom: 0;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_main-navigation\.scss}line{font-family:\0000363}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_main-navigation\.scss}line{font-family:\0000364}}
   nav.main-nav li.dropdown > a:after {
     width: 0;
     height: 0;
@@ -4668,7 +4694,7 @@ nav.main-nav a {
     top: 17px;
     right: 5px;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_main-navigation\.scss}line{font-family:\0000374}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_main-navigation\.scss}line{font-family:\0000375}}
   nav.main-nav li li.dropdown > a:after {
     width: 0;
     height: 0;
@@ -4682,23 +4708,23 @@ nav.main-nav a {
     top: 17px;
     right: 5px;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_main-navigation\.scss}line{font-family:\0000383}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_main-navigation\.scss}line{font-family:\0000384}}
   nav.main-nav ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_main-navigation\.scss}line{font-family:\0000387}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_main-navigation\.scss}line{font-family:\0000388}}
   nav.main-nav ul li {
     display: inline-block;
     position: relative;
     /* sub nav.desktop-navigation */
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_main-navigation\.scss}line{font-family:\0000390}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_main-navigation\.scss}line{font-family:\0000391}}
   nav.main-nav ul li:hover {
     background: #002b51;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_main-navigation\.scss}line{font-family:\0000394}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_main-navigation\.scss}line{font-family:\0000395}}
   nav.main-nav ul li ul {
     background-color: #3a73a5;
     position: absolute;
@@ -4707,24 +4733,24 @@ nav.main-nav a {
     /* make this equal to the line-height of the links (specified below) */
     width: 150px;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_main-navigation\.scss}line{font-family:\00003100}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_main-navigation\.scss}line{font-family:\00003101}}
   nav.main-nav ul li ul li {
     position: relative;
     margin: 0;
     display: block;
     /* style sub level links */
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_main-navigation\.scss}line{font-family:\00003105}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_main-navigation\.scss}line{font-family:\00003106}}
   nav.main-nav ul li ul li a {
     border-bottom: solid 1px #ffffff;
     margin: 0 10px;
     padding: 0;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_main-navigation\.scss}line{font-family:\00003110}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_main-navigation\.scss}line{font-family:\00003111}}
   nav.main-nav ul li ul li:last-child a {
     border-bottom: none;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_main-navigation\.scss}line{font-family:\00003114}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_main-navigation\.scss}line{font-family:\00003115}}
   nav.main-nav ul li ul li ul {
     position: absolute;
     top: 0;
@@ -4734,7 +4760,7 @@ nav.main-nav a {
   }
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_main-navigation\.scss}line{font-family:\00003126}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_main-navigation\.scss}line{font-family:\00003127}}
 .sideMenuContainer {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -4748,7 +4774,6 @@ nav.main-nav a {
   left: -110%;
   margin: 0 auto;
   min-width: 100px;
-  margin-left: 20px;
   padding: 10px 10px 10px 10%;
   position: absolute;
   top: 0;
@@ -4757,10 +4782,10 @@ nav.main-nav a {
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_main-navigation\.scss}line{font-family:\00003139}}
 .sideMenuContainer.is-active {
-  left: -10%;
+  left: 0;
 }
 @media only screen and (min-width: 48.063em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_main-navigation\.scss}line{font-family:\00003126}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_main-navigation\.scss}line{font-family:\00003127}}
   .sideMenuContainer {
     left: 0;
     padding: 0;
@@ -4769,7 +4794,7 @@ nav.main-nav a {
   }
 }
 @media only screen and (min-width: 48.063em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_main-navigation\.scss}line{font-family:\00003126}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_main-navigation\.scss}line{font-family:\00003127}}
   .sideMenuContainer {
     max-width: 1200px;
     margin: 0 auto;
@@ -4780,18 +4805,19 @@ nav.main-nav a {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_main-navigation\.scss}line{font-family:\00003156}}
 .mobileButtonOpen {
-  -moz-transition: right 0.7s ease, background-position 0.7s ease;
-  -webkit-transition: right 0.7s ease, background-position 0.7s ease;
-  -o-transition: right 0.7s ease, background-position 0.7s ease;
-  -ms-transition: right 0.7s ease, background-position 0.7s ease;
-  transition: right 0.7s ease, background-position 0.7s ease;
+  -moz-transition: left 0.7s ease, background-position 0.7s ease;
+  -webkit-transition: left 0.7s ease, background-position 0.7s ease;
+  -o-transition: left 0.7s ease, background-position 0.7s ease;
+  -ms-transition: left 0.7s ease, background-position 0.7s ease;
+  transition: left 0.7s ease, background-position 0.7s ease;
   display: block;
   cursor: pointer;
   position: absolute;
-  right: -20%;
-  z-index: 2;
+  left: 10px;
+  top: -20px;
+  z-index: 21;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_main-navigation\.scss}line{font-family:\00003163}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_main-navigation\.scss}line{font-family:\00003164}}
 .mobileButtonOpen:before {
   content: "\f0c9";
   display: block;
@@ -4800,11 +4826,11 @@ nav.main-nav a {
   height: 30px;
   width: 30px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_main-navigation\.scss}line{font-family:\00003172}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_main-navigation\.scss}line{font-family:\00003173}}
 .mobileButtonOpen.is-active {
-  right: 0;
+  left: 90%;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_main-navigation\.scss}line{font-family:\00003174}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_main-navigation\.scss}line{font-family:\00003175}}
 .mobileButtonOpen.is-active:before {
   content: "\f100";
   color: #ffffff;
@@ -6671,26 +6697,25 @@ textarea:focus {
   z-index: 10;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_review-panel\.scss}line{font-family:\000033}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_accordion\.scss}line{font-family:\000033}}
 .accordion .accordion-section {
-  padding: 5px 10px;
   border: 1px solid #000;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_review-panel\.scss}line{font-family:\000036}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_accordion\.scss}line{font-family:\000036}}
 .accordion .accordion-section .title {
-  padding-bottom: 0;
+  padding: 10px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_review-panel\.scss}line{font-family:\0000310}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_accordion\.scss}line{font-family:\0000310}}
 .accordion .accordion-section-title {
   display: block;
   text-decoration: none;
   position: relative;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_review-panel\.scss}line{font-family:\0000315}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_accordion\.scss}line{font-family:\0000315}}
 .accordion .accordion-section-title:hover, .accordion .accordion-section-title:focus, .accordion .accordion-section-title:active {
   text-decoration: none;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_review-panel\.scss}line{font-family:\0000318}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_accordion\.scss}line{font-family:\0000318}}
 .accordion .accordion-section-title:after {
   font-weight: lighter;
   content: "\f107";
@@ -6701,44 +6726,45 @@ textarea:focus {
   right: 0;
   top: -5px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_review-panel\.scss}line{font-family:\0000328}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_accordion\.scss}line{font-family:\0000328}}
 .accordion .accordion-section-title.active:after {
   content: "\f106";
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_review-panel\.scss}line{font-family:\0000332}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_accordion\.scss}line{font-family:\0000332}}
 .accordion .accordion-section-content {
   display: none;
-  padding-top: 10px;
+  padding: 10px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_review-panel\.scss}line{font-family:\0000337}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_accordion\.scss}line{font-family:\0000338}}
 .accordion blockquote .quotes {
   font-style: italic;
+  font-size: 1.4em;
   display: inline;
-  padding: 0 20px;
+  padding: 0 10px;
   position: relative;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_review-panel\.scss}line{font-family:\0000342}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_accordion\.scss}line{font-family:\0000344}}
 .accordion blockquote .quotes:before, .accordion blockquote .quotes:after {
-  color: #51BC8F;
+  color: #000000;
   font-weight: lighter;
   font-family: 'FontAwesome';
-  font-size: .7em;
+  font-size: .5em;
   display: block;
   position: absolute;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_review-panel\.scss}line{font-family:\0000350}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_accordion\.scss}line{font-family:\0000352}}
 .accordion blockquote .quotes:before {
   content: "\f10d";
   left: 0;
   top: 0;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_review-panel\.scss}line{font-family:\0000355}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_accordion\.scss}line{font-family:\0000357}}
 .accordion blockquote .quotes:after {
   content: "\f10e";
   bottom: 5px;
   right: 0;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_review-panel\.scss}line{font-family:\0000361}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_accordion\.scss}line{font-family:\0000363}}
 .accordion blockquote .owner {
   margin-top: 10px;
   font-weight: bold;
@@ -6847,8 +6873,8 @@ textarea:focus {
   background-position: -1px -1px;
   display: inline-block;
   margin-right: 10px;
-  height: 50px;
-  width: 50px;
+  height: 25px;
+  width: 25px;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_social-icon\.scss}line{font-family:\0000324}}
 .socialIcons .icon:hover, .socialIcons .icon:focus, .socialIcons .icon:active {
@@ -6899,11 +6925,22 @@ textarea:focus {
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_flip-card\.scss}line{font-family:\0000333}}
 .notecard .front {
+  background: url("/images/background/servicing.jpg");
   color: #000000;
   text-align: center;
   font-size: 20px;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_flip-card\.scss}line{font-family:\0000338}}
+.notecard .front.ben {
+  background: url("/images/content/ben_l.jpg");
+  background-size: cover;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_flip-card\.scss}line{font-family:\0000342}}
+.notecard .front .heading {
+  background: rgba(255, 255, 255, 0.5);
+  padding-top: 10px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_flip-card\.scss}line{font-family:\0000347}}
 .notecard .back {
   padding: 10px;
 }
@@ -6912,7 +6949,7 @@ textarea:focus {
   .notecard {
     height: 230px;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_flip-card\.scss}line{font-family:\0000343}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_flip-card\.scss}line{font-family:\0000352}}
   .notecard:hover {
     transform: rotatey(-180deg);
     -webkit-transform: rotatey(-180deg);
@@ -6920,7 +6957,7 @@ textarea:focus {
     -ms-transform: rotatey(-180deg);
     -o-transform: rotatey(-180deg);
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_flip-card\.scss}line{font-family:\0000346}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_flip-card\.scss}line{font-family:\0000355}}
   .notecard .front, .notecard .back {
     backface-visibility: hidden;
     -webkit-backface-visibility: hidden;
@@ -6931,20 +6968,18 @@ textarea:focus {
     position: absolute;
     width: 100%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_flip-card\.scss}line{font-family:\0000352}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_flip-card\.scss}line{font-family:\0000361}}
   .notecard .front {
-    background: url("/images/background/servicing.jpg");
     background-size: cover;
     z-index: 3;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_flip-card\.scss}line{font-family:\0000356}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_flip-card\.scss}line{font-family:\0000364}}
   .notecard .front .heading {
-    background: rgba(255, 255, 255, 0.5);
     height: 100%;
     position: relative;
     padding-top: 10%;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_flip-card\.scss}line{font-family:\0000363}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_flip-card\.scss}line{font-family:\0000370}}
   .notecard .back {
     transform: rotatey(-180deg);
     -webkit-transform: rotatey(-180deg);
@@ -6954,6 +6989,26 @@ textarea:focus {
     word-wrap: break-word;
     z-index: 1;
   }
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_flip-card\.scss}line{font-family:\0000376}}
+.notecard table {
+  width: 100%;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_flip-card\.scss}line{font-family:\0000378}}
+.notecard table th, .notecard table td {
+  font-size: 1.3em;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_flip-card\.scss}line{font-family:\0000381}}
+.notecard table td {
+  padding-bottom: 5px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_flip-card\.scss}line{font-family:\0000383}}
+.notecard table td:nth-child(even) {
+  text-align: right;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_flip-card\.scss}line{font-family:\0000386}}
+.notecard table td:nth-child(odd) {
+  font-weight: bold;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_carousel\.scss}line{font-family:\000031}}
@@ -7299,4 +7354,60 @@ body.lb-disable-scrolling {
   cursor: pointer;
   filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=100);
   opacity: 1;
+}
+
+/* Style the tab */
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_tabs\.scss}line{font-family:\000032}}
+.tab {
+  overflow: hidden;
+  border: 1px solid #ccc;
+  background-color: #f1f1f1;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_tabs\.scss}line{font-family:\000036}}
+.tab a {
+  float: left;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  transition: 0.3s;
+  font-size: 17px;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_tabs\.scss}line{font-family:\0000315}}
+.tab a:hover {
+  background-color: #ddd;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_tabs\.scss}line{font-family:\0000318}}
+.tab a:focus, .tab a .active {
+  background-color: #ccc;
+}
+
+/* Style the tab content */
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_tabs\.scss}line{font-family:\0000325}}
+.tabcontent {
+  display: none;
+  padding: 6px 12px;
+  border: 1px solid #ccc;
+  border-top: none;
+  -webkit-animation: fadeEffect 1s;
+  animation: fadeEffect 1s;
+  /* Fading effect takes 1 second */
+}
+
+@-webkit-keyframes fadeEffect {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+@keyframes fadeEffect {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
 }
