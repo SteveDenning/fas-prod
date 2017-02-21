@@ -4034,7 +4034,7 @@
     position: relative;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\00003108}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\00003109}}
   .page-wrapper, .header-wrapper {
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
@@ -4054,14 +4054,14 @@
   }
 }
 @media only screen and (min-width: 30em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\00003108}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\00003109}}
   .page-wrapper, .header-wrapper {
     padding-left: 10px;
     padding-right: 10px;
   }
 }
 @media only screen and (min-width: 48.063em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\00003108}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\00003109}}
   .page-wrapper, .header-wrapper {
     max-width: 1200px;
     margin: 0 auto;
@@ -4071,12 +4071,7 @@
 }
 
 @media screen, projection {
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\00003126}}
-  .header-wrapper {
-    margin-top: 0;
-  }
-
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\00003130}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\00003137}}
   .exampleGrid span {
     font-size: 20px;
     text-align: center;
@@ -4469,7 +4464,22 @@ img {
   margin: 30px 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_typography\.scss}line{font-family:\00003128}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_typography\.scss}line{font-family:\00003119}}
+.header-wrapper {
+  margin-top: 0;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_typography\.scss}line{font-family:\00003122}}
+.inner-content {
+  background: #eeeeee;
+  padding: 10px 10px 0;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_typography\.scss}line{font-family:\00003125}}
+.inner-content.btm-margin {
+  margin-bottom: 30px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_typography\.scss}line{font-family:\00003137}}
 h2.index-title, h2.index-heading {
   font-size: 2em;
   color: #333;
@@ -4477,13 +4487,13 @@ h2.index-title, h2.index-heading {
   margin: 20px;
 }
 @media only screen and (min-width: 48.063em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_typography\.scss}line{font-family:\00003128}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_typography\.scss}line{font-family:\00003137}}
   h2.index-title, h2.index-heading {
     font-size: 3em;
   }
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_typography\.scss}line{font-family:\00003137}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_typography\.scss}line{font-family:\00003146}}
 h2.index-heading {
   font-size: 2.5em;
   padding-left: 0;
@@ -4538,24 +4548,33 @@ h2.index-heading {
   text-decoration: underline;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_content\.scss}line{font-family:\0000335}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_content\.scss}line{font-family:\0000336}}
 .body.sent-mail-bg {
   background: url("../images/background/sent-mail.jpg") no-repeat;
   background-size: cover;
   text-align: center;
 }
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_content\.scss}line{font-family:\0000341}}
+.body.location {
+  background-image: url("../images/background/map-overlay.jpg");
+  background-size: cover;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_content\.scss}line{font-family:\0000344}}
+.body.location p, .body.location .heading {
+  color: #ffffff;
+}
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_content\.scss}line{font-family:\0000340}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_content\.scss}line{font-family:\0000349}}
 .sent-mail {
   padding: 200px 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_content\.scss}line{font-family:\0000343}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_content\.scss}line{font-family:\0000352}}
 .mobile {
   color: #00FF00;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_content\.scss}line{font-family:\0000346}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_content\.scss}line{font-family:\0000355}}
 p.phone,
 a.phone {
   color: #00FF00;
@@ -4563,7 +4582,7 @@ a.phone {
   padding-left: 33px;
   position: relative;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_content\.scss}line{font-family:\0000352}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_content\.scss}line{font-family:\0000361}}
 p.phone:before,
 a.phone:before {
   background: url("/images/background/phone.png") no-repeat;
@@ -6892,9 +6911,8 @@ textarea:focus {
   display: block;
   font-size: 2em;
   padding-right: 10px;
-  padding-top: 10px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_social-icon\.scss}line{font-family:\0000344}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_social-icon\.scss}line{font-family:\0000343}}
 .phone-number span {
   font-size: 1.4em;
   margin-right: 5px;
@@ -6904,6 +6922,11 @@ textarea:focus {
   .phone-number {
     pointer-events: none;
   }
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_social-icon\.scss}line{font-family:\0000351}}
+.email {
+  padding-right: 10px;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_flip-card\.scss}line{font-family:\0000326}}
@@ -7014,21 +7037,27 @@ textarea:focus {
 @media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_carousel\.scss}line{font-family:\000031}}
 .carousel {
   margin-top: 20px;
+  max-height: 150px !important;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_carousel\.scss}line{font-family:\000034}}
-#banner-fade {
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_carousel\.scss}line{font-family:\000035}}
+#banner-fade, .bjqs {
   width: 100% !important;
   max-width: 100% !important;
+  max-height: 150px !important;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_carousel\.scss}line{font-family:\000039}}
+#banner-fade li img, .bjqs li img {
+  max-height: 150px !important;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_carousel\.scss}line{font-family:\000038}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_carousel\.scss}line{font-family:\0000313}}
 li.bjqs-slide {
   position: absolute;
   display: none;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_carousel\.scss}line{font-family:\0000310}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_carousel\.scss}line{font-family:\0000315}}
 ul.bjqs {
   position: relative;
   list-style: none;
@@ -7038,13 +7067,13 @@ ul.bjqs {
   display: none;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_carousel\.scss}line{font-family:\0000311}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_carousel\.scss}line{font-family:\0000316}}
 li.bjqs-slide {
   position: absolute;
   display: none;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_carousel\.scss}line{font-family:\0000312}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_carousel\.scss}line{font-family:\0000317}}
 ul.bjqs-controls {
   list-style: none;
   margin: 0;
@@ -7052,17 +7081,17 @@ ul.bjqs-controls {
   z-index: 9999;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_carousel\.scss}line{font-family:\0000314}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_carousel\.scss}line{font-family:\0000319}}
 ul.bjqs-controls.v-centered li.bjqs-next a {
   right: 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_carousel\.scss}line{font-family:\0000315}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_carousel\.scss}line{font-family:\0000320}}
 ul.bjqs-controls.v-centered li.bjqs-prev a {
   left: 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_carousel\.scss}line{font-family:\0000316}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_carousel\.scss}line{font-family:\0000321}}
 ol.bjqs-markers {
   list-style: none;
   padding: 0;
@@ -7070,28 +7099,28 @@ ol.bjqs-markers {
   width: 100%;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_carousel\.scss}line{font-family:\0000317}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_carousel\.scss}line{font-family:\0000322}}
 ol.bjqs-markers.h-centered {
   text-align: center;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_carousel\.scss}line{font-family:\0000318}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_carousel\.scss}line{font-family:\0000323}}
 .bjqs-markers li {
   display: inline;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_carousel\.scss}line{font-family:\0000322}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_carousel\.scss}line{font-family:\0000327}}
 .bjqs-controls.v-centered li a {
   position: absolute;
   text-decoration: none;
   color: #ccc;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_carousel\.scss}line{font-family:\0000326}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_carousel\.scss}line{font-family:\0000331}}
 .bjqs-controls.v-centered li a img {
   width: 70%;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_carousel\.scss}line{font-family:\0000332}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_carousel\.scss}line{font-family:\0000337}}
 .bjqs-markers li a {
   display: inline-block;
   width: 10px;
@@ -7108,11 +7137,11 @@ ol.bjqs-markers.h-centered {
   -ms-transition: background 0.2s ease, border 0.2s ease;
   transition: background 0.2s ease, border 0.2s ease;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_carousel\.scss}line{font-family:\0000343}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_carousel\.scss}line{font-family:\0000348}}
 .bjqs-markers li a:hover {
   background: #000000;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_carousel\.scss}line{font-family:\0000347}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_carousel\.scss}line{font-family:\0000352}}
 .bjqs-markers .active-marker a {
   background: #000000;
 }
@@ -7354,6 +7383,24 @@ body.lb-disable-scrolling {
   cursor: pointer;
   filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=100);
   opacity: 1;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_body-themes\.scss}line{font-family:\000031}}
+.body {
+  background-size: cover;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_body-themes\.scss}line{font-family:\000032}}
+.body.sent-mail-bg {
+  background: url("../images/background/sent-mail.jpg") no-repeat;
+  text-align: center;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_body-themes\.scss}line{font-family:\000036}}
+.body.location {
+  background-image: url("../images/background/map-overlay.jpg");
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_body-themes\.scss}line{font-family:\000038}}
+.body.location p, .body.location .heading {
+  color: #ffffff;
 }
 
 /* Style the tab */

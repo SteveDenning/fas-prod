@@ -33,9 +33,8 @@
 		</header>
 		<nav class="main-nav">
 			<div class="sideMenuContainer">
-				
 				<ul>
-				    <li><a href="#">Home</a></li>
+				    <li><a href="/">Home</a></li>
 				    <li class="dropdown">
 				        <a href="#">About us</a>
 				        <ul class="sub-menu">
@@ -46,7 +45,7 @@
 				    <li class="dropdown">
 				        <a href="#">Services</a>
 				        <ul class="sub-menu">
-				            <li><a href="#">Tyres</a></li>
+				            <li><a href="tyres.html">Tyres</a></li>
 				            <li><a href="#">Servicing</a></li>
 				            <li><a href="#">MOT's</a></li>
 				        </ul>
@@ -57,7 +56,7 @@
 				            <li><a href="#">Economy</a></li>
 				            <li><a href="#">Performance</a></li>
 				            <li><a href="#">Bit of both</a></li>
-				            <li><a href="#">Reviews</a></li>
+				            <li><a href="reviews.html">Reviews</a></li>
 				        </ul>
 				    </li>
 				</ul>
