@@ -6925,14 +6925,14 @@ textarea:focus {
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_flip-card\.scss}line{font-family:\0000333}}
 .notecard .front {
-  background: url("/images/background/servicing.jpg");
+  background: url("../images/background/servicing.jpg");
   color: #000000;
   text-align: center;
   font-size: 20px;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_flip-card\.scss}line{font-family:\0000338}}
 .notecard .front.ben {
-  background: url("/images/content/ben_l.jpg");
+  background: url("../images/content/ben_l.jpg");
   background-size: cover;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_flip-card\.scss}line{font-family:\0000342}}
