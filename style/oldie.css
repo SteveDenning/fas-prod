@@ -459,6 +459,11 @@ body {
   display: none;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/_base\.scss}line{font-family:\0000389}}
+.major-padding {
+  padding: 250px 0;
+}
+
 @media print {
 @media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/_print\.scss}line{font-family:\000039}}
   body {

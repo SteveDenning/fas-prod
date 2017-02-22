@@ -1781,6 +1781,12 @@
   }
 }
 
+@media screen, projection {
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/_base\.scss}line{font-family:\0000389}}
+  .major-padding {
+    padding: 250px 0;
+  }
+}
 @media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/boilerplate-layout\.scss}line{font-family:\0000316}}
 * {
   padding: 0;

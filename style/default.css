@@ -4261,6 +4261,12 @@
   }
 }
 
+@media screen, projection {
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/_base\.scss}line{font-family:\0000389}}
+  .major-padding {
+    padding: 250px 0;
+  }
+}
 @-ms-viewport {
   width: device-width;
 }
@@ -6856,20 +6862,21 @@ textarea:focus {
 @media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_social-icon\.scss}line{font-family:\000034}}
 .socialIcons {
   text-align: center;
+  position: relative;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_social-icon\.scss}line{font-family:\000036}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_social-icon\.scss}line{font-family:\000037}}
 .socialIcons .facebook {
   background: transparent url("/images/background/facebook.png") no-repeat;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_social-icon\.scss}line{font-family:\000039}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_social-icon\.scss}line{font-family:\0000310}}
 .socialIcons .twitter {
   background: transparent url("/images/background/twitter.png") no-repeat;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_social-icon\.scss}line{font-family:\0000312}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_social-icon\.scss}line{font-family:\0000313}}
 .socialIcons .linkedin {
   background: transparent url("/images/background/linkedin.png") no-repeat;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_social-icon\.scss}line{font-family:\0000315}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_social-icon\.scss}line{font-family:\0000316}}
 .socialIcons .icon {
   border-radius: 50%;
   -moz-transition: background 0.2s ease;
@@ -6884,38 +6891,43 @@ textarea:focus {
   height: 25px;
   width: 25px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_social-icon\.scss}line{font-family:\0000324}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_social-icon\.scss}line{font-family:\0000325}}
 .socialIcons .icon:hover, .socialIcons .icon:focus, .socialIcons .icon:active {
   background-color: #ffffff;
 }
 
 @media only screen and (min-width: 48.063em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_social-icon\.scss}line{font-family:\0000330}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_social-icon\.scss}line{font-family:\0000331}}
   .socialIcons {
     text-align: right;
   }
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_social-icon\.scss}line{font-family:\0000336}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_social-icon\.scss}line{font-family:\0000337}}
 .phone-number {
   display: block;
   font-size: 2em;
   padding-right: 10px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_social-icon\.scss}line{font-family:\0000343}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_social-icon\.scss}line{font-family:\0000344}}
 .phone-number span {
   font-size: 1.4em;
   margin-right: 5px;
 }
 @media only screen and (min-width: 48.063em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_social-icon\.scss}line{font-family:\0000336}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_social-icon\.scss}line{font-family:\0000337}}
   .phone-number {
     pointer-events: none;
   }
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_social-icon\.scss}line{font-family:\0000351}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_social-icon\.scss}line{font-family:\0000352}}
 .email {
   padding-right: 10px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_social-icon\.scss}line{font-family:\0000355}}
+.fb-follow.fb_iframe_widget {
+  margin-right: 5px;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/components\/_flip-card\.scss}line{font-family:\0000326}}
