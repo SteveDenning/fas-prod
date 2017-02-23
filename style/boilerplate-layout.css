@@ -6,8 +6,12 @@
   height: 0;
   display: block;
 }
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000329}}
+.ie6 .row, .ie7 .row {
+  zoom: 1;
+}
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000330}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000333}}
 .grid__row {
   margin-left: -10px;
   margin-right: -10px;
@@ -21,14 +25,14 @@
   display: block;
 }
 @media only screen and (min-width: 30em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000330}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000333}}
   .grid__row {
     margin-left: -10px;
     margin-right: -10px;
   }
 }
 @media only screen and (min-width: 48.063em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000330}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000333}}
   .grid__row {
     margin-left: -16px;
     margin-right: -16px;
@@ -40,67 +44,67 @@
  * Grid Columns
  *
  */
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000349}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000352}}
 .col-sm-1 {
   width: 8.33333%;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000349}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000352}}
 .col-sm-2 {
   width: 16.66667%;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000349}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000352}}
 .col-sm-3 {
   width: 25%;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000349}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000352}}
 .col-sm-4 {
   width: 33.33333%;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000349}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000352}}
 .col-sm-5 {
   width: 41.66667%;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000349}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000352}}
 .col-sm-6 {
   width: 50%;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000349}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000352}}
 .col-sm-7 {
   width: 58.33333%;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000349}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000352}}
 .col-sm-8 {
   width: 66.66667%;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000349}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000352}}
 .col-sm-9 {
   width: 75%;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000349}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000352}}
 .col-sm-10 {
   width: 83.33333%;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000349}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000352}}
 .col-sm-11 {
   width: 91.66667%;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000349}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000352}}
 .col-sm-12 {
   width: 100%;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000354}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000357}}
 [class^='col-sm-'],
 [class^='col-md-'],
 [class^='col-lg-'] {
@@ -109,19 +113,19 @@
   min-height: 1px;
   padding: 0 10px 10px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000361}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000364}}
 .reverse-order [class^='col-sm-'], .reverse-order
 [class^='col-md-'], .reverse-order
 [class^='col-lg-'] {
   float: right;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000364}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000367}}
 [class^='col-sm-'].align-right,
 [class^='col-md-'].align-right,
 [class^='col-lg-'].align-right {
   text-align: right;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000368}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000371}}
 [class^='col-sm-'] [class^='col-sm-']:last-of-type, [class^='col-sm-'] [class^='col-md-']:last-of-type, [class^='col-sm-'] [class^='col-lg-']:last-of-type,
 [class^='col-md-'] [class^='col-sm-']:last-of-type,
 [class^='col-md-'] [class^='col-md-']:last-of-type,
@@ -132,7 +136,7 @@
   padding-bottom: 0;
 }
 @media only screen and (min-width: 48.063em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000367}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000370}}
   [class^='col-sm-'] [class^='col-sm-'], [class^='col-sm-'] [class^='col-md-'], [class^='col-sm-'] [class^='col-lg-'],
   [class^='col-md-'] [class^='col-sm-'],
   [class^='col-md-'] [class^='col-md-'],
@@ -145,67 +149,67 @@
 }
 
 @media only screen and (min-width: 30em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000379}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000382}}
   .col-md-1 {
     width: 8.33333%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000379}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000382}}
   .col-md-2 {
     width: 16.66667%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000379}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000382}}
   .col-md-3 {
     width: 25%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000379}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000382}}
   .col-md-4 {
     width: 33.33333%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000379}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000382}}
   .col-md-5 {
     width: 41.66667%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000379}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000382}}
   .col-md-6 {
     width: 50%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000379}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000382}}
   .col-md-7 {
     width: 58.33333%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000379}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000382}}
   .col-md-8 {
     width: 66.66667%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000379}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000382}}
   .col-md-9 {
     width: 75%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000379}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000382}}
   .col-md-10 {
     width: 83.33333%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000379}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000382}}
   .col-md-11 {
     width: 91.66667%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000379}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000382}}
   .col-md-12 {
     width: 100%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000383}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000386}}
   [class^='col-sm-'],
   [class^='col-md-'],
   [class^='col-lg-'] {
@@ -213,79 +217,79 @@
   }
 }
 @media only screen and (min-width: 48.063em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000392}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000395}}
   .col-lg-1 {
     width: 8.33333%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000392}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000395}}
   .col-lg-2 {
     width: 16.66667%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000392}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000395}}
   .col-lg-3 {
     width: 25%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000392}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000395}}
   .col-lg-4 {
     width: 33.33333%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000392}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000395}}
   .col-lg-5 {
     width: 41.66667%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000392}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000395}}
   .col-lg-6 {
     width: 50%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000392}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000395}}
   .col-lg-7 {
     width: 58.33333%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000392}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000395}}
   .col-lg-8 {
     width: 66.66667%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000392}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000395}}
   .col-lg-9 {
     width: 75%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000392}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000395}}
   .col-lg-10 {
     width: 83.33333%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000392}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000395}}
   .col-lg-11 {
     width: 91.66667%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000392}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000395}}
   .col-lg-12 {
     width: 100%;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000396}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\0000399}}
   [class^='col-sm-'],
   [class^='col-md-'],
   [class^='col-lg-'] {
     padding: 0 16px 16px;
   }
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\00003105}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\00003108}}
 .page-wrapper {
   position: relative;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\00003109}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\00003112}}
 .page-wrapper, .header-wrapper {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -304,14 +308,14 @@
   display: block;
 }
 @media only screen and (min-width: 30em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\00003109}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\00003112}}
   .page-wrapper, .header-wrapper {
     padding-left: 10px;
     padding-right: 10px;
   }
 }
 @media only screen and (min-width: 48.063em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\00003109}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\00003112}}
   .page-wrapper, .header-wrapper {
     max-width: 1200px;
     margin: 0 auto;
@@ -320,7 +324,7 @@
   }
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\00003137}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/config\/_grid\.scss}line{font-family:\00003140}}
 .exampleGrid span {
   font-size: 20px;
   text-align: center;
@@ -1673,33 +1677,20 @@
   }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/_base\.scss}line{font-family:\000039}}
-  .row:after {
-    clear: both;
-    content: "";
-    display: block;
-    height: 0;
-    visibility: hidden;
-  }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/_base\.scss}line{font-family:\0000316}}
-  .ie6 .row, .ie7 .row {
-    zoom: 1;
-  }
-
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/_base\.scss}line{font-family:\0000320}}
   *, *:after, *:before {
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/_base\.scss}line{font-family:\0000324}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/_base\.scss}line{font-family:\0000313}}
   body {
     font-family: 'Raleway', sans-serif;
     font-size: 62.5%;
     position: relative;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/_base\.scss}line{font-family:\0000333}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/_base\.scss}line{font-family:\0000322}}
   .skipLink {
     background: #222;
     color: #fff;
@@ -1709,82 +1700,82 @@
     position: absolute;
     z-index: 1000;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/_base\.scss}line{font-family:\0000341}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/_base\.scss}line{font-family:\0000330}}
   .skipLink:focus {
     left: 0;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/_base\.scss}line{font-family:\0000346}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/_base\.scss}line{font-family:\0000335}}
   .hidden {
     display: none;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/_base\.scss}line{font-family:\0000350}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/_base\.scss}line{font-family:\0000339}}
   .accessible {
     position: absolute;
     left: -9999px;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/_base\.scss}line{font-family:\0000355}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/_base\.scss}line{font-family:\0000344}}
   .hideForMobile {
     display: none;
   }
 }
 @media only screen and (min-width: 40em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/_base\.scss}line{font-family:\0000355}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/_base\.scss}line{font-family:\0000344}}
   .hideForMobile {
     display: block;
   }
 }
 
 @media screen, projection {
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/_base\.scss}line{font-family:\0000361}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/_base\.scss}line{font-family:\0000350}}
   .showForMobile {
     display: block;
   }
 }
 @media only screen and (min-width: 40em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/_base\.scss}line{font-family:\0000361}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/_base\.scss}line{font-family:\0000350}}
   .showForMobile {
     display: none;
   }
 }
 
 @media screen, projection {
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/_base\.scss}line{font-family:\0000367}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/_base\.scss}line{font-family:\0000356}}
   .lt-ie9 .hideForTablet {
     display: block;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/_base\.scss}line{font-family:\0000371}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/_base\.scss}line{font-family:\0000360}}
   .desktop {
     display: none;
   }
 }
 @media only screen and (min-width: 48.063em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/_base\.scss}line{font-family:\0000371}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/_base\.scss}line{font-family:\0000360}}
   .desktop {
     display: block;
   }
 }
 
 @media screen, projection {
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/_base\.scss}line{font-family:\0000377}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/_base\.scss}line{font-family:\0000366}}
   .mobile {
     display: block;
   }
 }
 @media only screen and (min-width: 48.063em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/_base\.scss}line{font-family:\0000377}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/_base\.scss}line{font-family:\0000366}}
   .mobile {
     display: none;
   }
 }
 
 @media screen, projection {
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/_base\.scss}line{font-family:\0000389}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/_base\.scss}line{font-family:\0000378}}
   .major-padding {
-    padding: 250px 0;
+    padding-bottom: 350px;
   }
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/practice-page\/sass\/boilerplate-layout\.scss}line{font-family:\0000316}}

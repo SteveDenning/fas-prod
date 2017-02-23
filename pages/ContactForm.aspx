@@ -40,7 +40,7 @@
 				<ul>
 				    <li><a href="../">Home</a></li>
 				    <li class="dropdown">
-				        <a href="#">About us</a>
+				        <a href="about-us.html">About us</a>
 				        <ul class="sub-menu">
 				            <li><a href="location.html">Location</a></li>
 				            <li><a href="contactForm.aspx">Contact</a></li>

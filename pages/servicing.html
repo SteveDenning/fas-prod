@@ -37,7 +37,7 @@
 				<ul>
 				    <li><a href="../">Home</a></li>
 				    <li class="dropdown">
-				        <a href="#">About us</a>
+				        <a href="about-us.html">About us</a>
 				        <ul class="sub-menu">
 				            <li><a href="location.html">Location</a></li>
 				            <li><a href="contactForm.aspx">Contact</a></li>
@@ -65,8 +65,37 @@
 		</nav>
 		<div class="page-wrapper">
 			<div class="mobileButtonOpen"><span class="accessible">Mobile Menu buttton</span></div>
-			<div class="center-align major-padding">
-				<h2>Servicing</h2>
+			<h2 class="section-heading">Servicing</h2>
+			<h3>You put some text here</h3>
+			<p>Perhaps an intro paragraph</p>
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur ab blanditiis eaque repellendus, suscipit aliquid. Labore repellat temporibus distinctio cum a vero eius magnam, soluta, impedit excepturi accusamus, maiores voluptate?</p>
+			<div class="grid__row">
+				<div class="col-sm-12 col-md-12 col-lg-12">
+				
+					<div class="tabs-wrapper">
+						<div class="tab">
+							<a class="tablinks" href="javascript:void(0)" onclick="changeTabs(event, 'tab1')"" id="defaultOpen">Tab1</a>
+							<a class="tablinks" href="javascript:void(0)" onclick="changeTabs(event, 'tab2')">Tab2</a>
+							<a class="tablinks" href="javascript:void(0)" onclick="changeTabs(event, 'tab3')">Tab3</a>
+						</div>
+						<div class="tabcontent" id="tab1">
+						    <h2>Tab-1</h2>
+						    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro, ea, quibusdam accusamus facilis quos qui fugiat laboriosam dolore voluptates, aperiam sed. Rem distinctio, vel alias nesciunt itaque enim, nam dolorum!</p>
+						    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro, ea, quibusdam accusamus facilis quos qui fugiat laboriosam dolore voluptates, aperiam sed. Rem distinctio, vel alias nesciunt itaque enim, nam dolorum!</p>
+						    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro, ea, quibusdam accusamus facilis quos qui fugiat laboriosam dolore voluptates, aperiam sed. Rem distinctio, vel alias nesciunt itaque enim, nam dolorum!</p>
+						    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro, ea, quibusdam accusamus facilis quos qui fugiat laboriosam dolore voluptates, aperiam sed. Rem distinctio, vel alias nesciunt itaque enim, nam dolorum!</p>
+						</div>
+						<div class="tabcontent" id="tab2">
+						    <h2>Tab-2</h2>
+						    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro, ea, quibusdam accusamus facilis quos qui fugiat laboriosam dolore voluptates, aperiam sed. Rem distinctio, vel alias nesciunt itaque enim, nam dolorum!</p>
+						</div>
+						<div class="tabcontent" id="tab3">
+						    <h2>Tab-3</h2>
+						    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro, ea, quibusdam accusamus facilis quos qui fugiat laboriosam dolore voluptates, aperiam sed. Rem distinctio, vel alias nesciunt itaque enim, nam dolorum!</p>
+						</div>
+					</div>
+
+				</div>
 			</div>
 		</div>
 	</div>
@@ -118,5 +147,9 @@
 		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 		<script src="../script/default.js"></script>
 		<script src="../script/modernizr.custom.js"></script>
+		<script>
+		// Get the element with id="defaultOpen" and click on it
+			document.getElementById("defaultOpen").click();
+		</script>
 	</body>
 </html>
