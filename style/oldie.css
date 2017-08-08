@@ -450,11 +450,6 @@ body {
   display: none;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/_base\.scss}line{font-family:\0000378}}
-.major-padding {
-  padding-bottom: 350px;
-}
-
 @media print {
 @media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/_print\.scss}line{font-family:\000039}}
   body {

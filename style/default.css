@@ -4252,12 +4252,6 @@
   }
 }
 
-@media screen, projection {
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/_base\.scss}line{font-family:\0000378}}
-  .major-padding {
-    padding-bottom: 350px;
-  }
-}
 @-ms-viewport {
   width: device-width;
 }
@@ -4297,201 +4291,202 @@
 @media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/config\/_typography\.scss}line{font-family:\000032}}
 h1, h2, h3, h4, h5 {
   padding-bottom: 10px;
+  font-weight: normal;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/config\/_typography\.scss}line{font-family:\000035}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/config\/_typography\.scss}line{font-family:\000036}}
 h1, h2, h3, h4, h5, h6, p, ul, a {
   padding-left: 8px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/config\/_typography\.scss}line{font-family:\000038}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/config\/_typography\.scss}line{font-family:\000039}}
 h1, .h1 {
   font-size: 2.2em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/config\/_typography\.scss}line{font-family:\0000311}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/config\/_typography\.scss}line{font-family:\0000312}}
 h2, .h2 {
   font-size: 2em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/config\/_typography\.scss}line{font-family:\0000314}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/config\/_typography\.scss}line{font-family:\0000315}}
 h3, .h3 {
   font-size: 1.8em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/config\/_typography\.scss}line{font-family:\0000317}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/config\/_typography\.scss}line{font-family:\0000318}}
 h4, .h4 {
   font-size: 1.6em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/config\/_typography\.scss}line{font-family:\0000320}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/config\/_typography\.scss}line{font-family:\0000321}}
 h5, .h5 {
   font-size: 1.4em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/config\/_typography\.scss}line{font-family:\0000323}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/config\/_typography\.scss}line{font-family:\0000324}}
 h6, .h6 {
   font-size: 1.4em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/config\/_typography\.scss}line{font-family:\0000326}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/config\/_typography\.scss}line{font-family:\0000327}}
 p {
   font-size: 1.4em;
   padding-bottom: 10px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/config\/_typography\.scss}line{font-family:\0000330}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/config\/_typography\.scss}line{font-family:\0000331}}
 label, input, textarea, legend {
   font-size: 1.6em;
 }
 
 @media only screen and (min-width: 40em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/config\/_typography\.scss}line{font-family:\0000334}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/config\/_typography\.scss}line{font-family:\0000335}}
   h1, h2, h3, h4, h5 {
     padding-bottom: 10px;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/config\/_typography\.scss}line{font-family:\0000337}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/config\/_typography\.scss}line{font-family:\0000338}}
   h1, .h1 {
     font-size: 3em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/config\/_typography\.scss}line{font-family:\0000340}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/config\/_typography\.scss}line{font-family:\0000341}}
   h2, .h2 {
     font-size: 2.8em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/config\/_typography\.scss}line{font-family:\0000343}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/config\/_typography\.scss}line{font-family:\0000344}}
   h3, .h3 {
     font-size: 2.4em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/config\/_typography\.scss}line{font-family:\0000346}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/config\/_typography\.scss}line{font-family:\0000347}}
   h4, .h4 {
     font-size: 2.2em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/config\/_typography\.scss}line{font-family:\0000349}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/config\/_typography\.scss}line{font-family:\0000350}}
   h5, .h5 {
     font-size: 2em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/config\/_typography\.scss}line{font-family:\0000352}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/config\/_typography\.scss}line{font-family:\0000353}}
   h6, .h6 {
     font-size: 1.6em;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/config\/_typography\.scss}line{font-family:\0000355}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/config\/_typography\.scss}line{font-family:\0000356}}
   p {
     font-size: 1.6em;
     padding-bottom: 10px;
   }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/config\/_typography\.scss}line{font-family:\0000359}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/config\/_typography\.scss}line{font-family:\0000360}}
   label, input, textarea, legend {
     font-size: 1.6em;
   }
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/config\/_typography\.scss}line{font-family:\0000363}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/config\/_typography\.scss}line{font-family:\0000364}}
 fieldset {
   margin: 10px 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/config\/_typography\.scss}line{font-family:\0000367}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/config\/_typography\.scss}line{font-family:\0000368}}
 a {
   color: #596cff;
   font-size: 1em;
   text-decoration: none;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/config\/_typography\.scss}line{font-family:\0000372}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/config\/_typography\.scss}line{font-family:\0000373}}
 a:hover, a:focus, a:active {
   text-decoration: underline;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/config\/_typography\.scss}line{font-family:\0000377}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/config\/_typography\.scss}line{font-family:\0000378}}
 p a {
   font-size: 100%;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/config\/_typography\.scss}line{font-family:\0000381}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/config\/_typography\.scss}line{font-family:\0000382}}
 li {
   font-size: 1em;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/config\/_typography\.scss}line{font-family:\0000383}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/config\/_typography\.scss}line{font-family:\0000384}}
 li a {
   font-size: 100%;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/config\/_typography\.scss}line{font-family:\0000387}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/config\/_typography\.scss}line{font-family:\0000388}}
 ol {
   list-style-position: inside;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/config\/_typography\.scss}line{font-family:\0000391}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/config\/_typography\.scss}line{font-family:\0000392}}
 img {
   width: 100%;
   height: auto;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/config\/_typography\.scss}line{font-family:\0000395}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/config\/_typography\.scss}line{font-family:\0000396}}
 ::-webkit-input-placeholder {
   font-size: 1em;
   font-family: 'Raleway', sans-serif;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/config\/_typography\.scss}line{font-family:\0000399}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/config\/_typography\.scss}line{font-family:\00003100}}
 :-moz-placeholder {
   /* Firefox 18- */
   font-size: 1em;
   font-family: 'Raleway', sans-serif;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/config\/_typography\.scss}line{font-family:\00003104}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/config\/_typography\.scss}line{font-family:\00003105}}
 ::-moz-placeholder {
   /* Firefox 19+ */
   font-size: 1em;
   font-family: 'Raleway', sans-serif;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/config\/_typography\.scss}line{font-family:\00003109}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/config\/_typography\.scss}line{font-family:\00003110}}
 :-ms-input-placeholder {
   font-size: 1em;
   font-family: 'Raleway', sans-serif;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/config\/_typography\.scss}line{font-family:\00003115}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/config\/_typography\.scss}line{font-family:\00003116}}
 .section-heading {
-  border-left: 3px solid #00FF00;
+  border-left: 3px solid #ccc;
   padding: 0 0 0 5px;
   margin: 30px 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/config\/_typography\.scss}line{font-family:\00003122}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/config\/_typography\.scss}line{font-family:\00003123}}
 .header-wrapper {
   margin-top: 0;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/config\/_typography\.scss}line{font-family:\00003125}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/config\/_typography\.scss}line{font-family:\00003126}}
 .inner-content {
   background: #eeeeee;
   padding: 10px 10px 0;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/config\/_typography\.scss}line{font-family:\00003128}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/config\/_typography\.scss}line{font-family:\00003129}}
 .inner-content.btm-margin {
   margin-bottom: 30px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/config\/_typography\.scss}line{font-family:\00003132}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/config\/_typography\.scss}line{font-family:\00003133}}
 .image-container {
   padding-bottom: 20px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/config\/_typography\.scss}line{font-family:\00003135}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/config\/_typography\.scss}line{font-family:\00003136}}
 .center-align {
   text-align: center;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/config\/_typography\.scss}line{font-family:\00003144}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/config\/_typography\.scss}line{font-family:\00003145}}
 h2.index-title, h2.index-heading {
   font-size: 2em;
   color: #333;
@@ -4499,13 +4494,13 @@ h2.index-title, h2.index-heading {
   margin: 20px;
 }
 @media only screen and (min-width: 48.063em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/config\/_typography\.scss}line{font-family:\00003144}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/config\/_typography\.scss}line{font-family:\00003145}}
   h2.index-title, h2.index-heading {
     font-size: 3em;
   }
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/config\/_typography\.scss}line{font-family:\00003153}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/config\/_typography\.scss}line{font-family:\00003154}}
 h2.index-heading {
   font-size: 2.5em;
   padding-left: 0;
@@ -4530,7 +4525,7 @@ h2.index-heading {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
-  border: 1px solid #00FF00;
+  border: 1px solid #ccc;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/components\/_content\.scss}line{font-family:\0000313}}
@@ -4539,7 +4534,7 @@ h2.index-heading {
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/components\/_content\.scss}line{font-family:\0000315}}
 .email a {
-  color: #00FF00;
+  color: #ccc;
   font-size: 1.5em;
   padding-left: 35px;
   position: relative;
@@ -4567,13 +4562,13 @@ h2.index-heading {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/components\/_content\.scss}line{font-family:\0000338}}
 .mobile {
-  color: #00FF00;
+  color: #ccc;
 }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/components\/_content\.scss}line{font-family:\0000341}}
 p.phone,
 a.phone {
-  color: #00FF00;
+  color: #ccc;
   font-size: 1.5em;
   padding-left: 33px;
   position: relative;
@@ -4612,7 +4607,7 @@ a.phone:before {
   font-size: 3em;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/components\/_main-navigation\.scss}line{font-family:\000033}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/components\/_main-navigation\.scss}line{font-family:\000034}}
 nav.main-nav {
   background: #3a73a5;
   bottom: 0;
@@ -4629,32 +4624,36 @@ nav.main-nav:after {
   height: 0;
   display: block;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/components\/_main-navigation\.scss}line{font-family:\0000311}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/components\/_main-navigation\.scss}line{font-family:\0000312}}
 nav.main-nav ul {
   list-style: none;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/components\/_main-navigation\.scss}line{font-family:\0000314}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/components\/_main-navigation\.scss}line{font-family:\0000315}}
 nav.main-nav ul.sub-menu {
   display: block;
   margin-top: 5px;
   margin-left: 20px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/components\/_main-navigation\.scss}line{font-family:\0000319}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/components\/_main-navigation\.scss}line{font-family:\0000320}}
 nav.main-nav li {
   padding-bottom: 5px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/components\/_main-navigation\.scss}line{font-family:\0000321}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/components\/_main-navigation\.scss}line{font-family:\0000322}}
 nav.main-nav li:last-child {
   padding-bottom: 0;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/components\/_main-navigation\.scss}line{font-family:\0000325}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/components\/_main-navigation\.scss}line{font-family:\0000326}}
 nav.main-nav a {
-  color: #00FF00;
+  color: #ccc;
   font-size: 1rem;
   text-decoration: none;
 }
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/components\/_main-navigation\.scss}line{font-family:\0000330}}
+nav.main-nav a:hover, nav.main-nav a:active, nav.main-nav a:focus {
+  color: #aaaaaa;
+}
 @media only screen and (min-width: 48.063em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/components\/_main-navigation\.scss}line{font-family:\000033}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/components\/_main-navigation\.scss}line{font-family:\000034}}
   nav.main-nav {
     display: block;
     position: relative;
@@ -4662,7 +4661,7 @@ nav.main-nav a {
     /* hide sub menu links */
     /* show arrows for dropdowns */
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/components\/_main-navigation\.scss}line{font-family:\0000334}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/components\/_main-navigation\.scss}line{font-family:\0000338}}
   nav.main-nav a {
     display: block;
     line-height: 40px;
@@ -4670,37 +4669,37 @@ nav.main-nav a {
     padding: 0 30px;
     text-decoration: none;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/components\/_main-navigation\.scss}line{font-family:\0000340}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/components\/_main-navigation\.scss}line{font-family:\0000344}}
   nav.main-nav a:hover, nav.main-nav a:focus, nav.main-nav a:active {
-    color: #00FF00;
+    color: #ccc;
     background: none;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/components\/_main-navigation\.scss}line{font-family:\0000347}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/components\/_main-navigation\.scss}line{font-family:\0000351}}
   nav.main-nav li {
     padding-bottom: 0;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/components\/_main-navigation\.scss}line{font-family:\0000350}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/components\/_main-navigation\.scss}line{font-family:\0000354}}
   nav.main-nav ul > li {
     width: 150px;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/components\/_main-navigation\.scss}line{font-family:\0000354}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/components\/_main-navigation\.scss}line{font-family:\0000358}}
   nav.main-nav ul.sub-menu {
     display: none;
     margin-left: 0;
     text-align: left;
     margin-top: 0;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/components\/_main-navigation\.scss}line{font-family:\0000361}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/components\/_main-navigation\.scss}line{font-family:\0000365}}
   nav.main-nav li.dropdown > a {
     position: relative;
     padding-bottom: 0;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/components\/_main-navigation\.scss}line{font-family:\0000364}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/components\/_main-navigation\.scss}line{font-family:\0000368}}
   nav.main-nav li.dropdown > a:after {
     width: 0;
     height: 0;
     transform: scale(1.0001);
-    border-top: 7px solid #00FF00;
+    border-top: 7px solid #ccc;
     border-right: 5px solid transparent;
     border-left: 5px solid transparent;
     content: "";
@@ -4709,12 +4708,12 @@ nav.main-nav a {
     top: 17px;
     right: 5px;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/components\/_main-navigation\.scss}line{font-family:\0000375}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/components\/_main-navigation\.scss}line{font-family:\0000379}}
   nav.main-nav li li.dropdown > a:after {
     width: 0;
     height: 0;
     transform: scale(1.0001);
-    border-left: 7px solid #00FF00;
+    border-left: 7px solid #ccc;
     border-top: 5px solid transparent;
     border-bottom: 5px solid transparent;
     content: "";
@@ -4723,23 +4722,23 @@ nav.main-nav a {
     top: 17px;
     right: 5px;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/components\/_main-navigation\.scss}line{font-family:\0000384}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/components\/_main-navigation\.scss}line{font-family:\0000388}}
   nav.main-nav ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/components\/_main-navigation\.scss}line{font-family:\0000388}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/components\/_main-navigation\.scss}line{font-family:\0000392}}
   nav.main-nav ul li {
     display: inline-block;
     position: relative;
     /* sub nav.desktop-navigation */
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/components\/_main-navigation\.scss}line{font-family:\0000391}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/components\/_main-navigation\.scss}line{font-family:\0000395}}
   nav.main-nav ul li:hover {
     background: #002b51;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/components\/_main-navigation\.scss}line{font-family:\0000395}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/components\/_main-navigation\.scss}line{font-family:\0000399}}
   nav.main-nav ul li ul {
     background-color: #3a73a5;
     position: absolute;
@@ -4748,24 +4747,24 @@ nav.main-nav a {
     /* make this equal to the line-height of the links (specified below) */
     width: 150px;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/components\/_main-navigation\.scss}line{font-family:\00003101}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/components\/_main-navigation\.scss}line{font-family:\00003105}}
   nav.main-nav ul li ul li {
     position: relative;
     margin: 0;
     display: block;
     /* style sub level links */
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/components\/_main-navigation\.scss}line{font-family:\00003106}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/components\/_main-navigation\.scss}line{font-family:\00003110}}
   nav.main-nav ul li ul li a {
     border-bottom: solid 1px #ffffff;
     margin: 0 10px;
     padding: 0;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/components\/_main-navigation\.scss}line{font-family:\00003111}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/components\/_main-navigation\.scss}line{font-family:\00003115}}
   nav.main-nav ul li ul li:last-child a {
     border-bottom: none;
   }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/components\/_main-navigation\.scss}line{font-family:\00003115}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/components\/_main-navigation\.scss}line{font-family:\00003119}}
   nav.main-nav ul li ul li ul {
     position: absolute;
     top: 0;
@@ -4775,7 +4774,7 @@ nav.main-nav a {
   }
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/components\/_main-navigation\.scss}line{font-family:\00003127}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/components\/_main-navigation\.scss}line{font-family:\00003131}}
 .sideMenuContainer {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -4789,18 +4788,18 @@ nav.main-nav a {
   left: -110%;
   margin: 0 auto;
   min-width: 100px;
-  padding: 10px 10px 10px 10%;
+  padding: 25px;
   position: absolute;
   top: 0;
   width: 100%;
   z-index: 20;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/components\/_main-navigation\.scss}line{font-family:\00003139}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/components\/_main-navigation\.scss}line{font-family:\00003143}}
 .sideMenuContainer.is-active {
   left: 0;
 }
 @media only screen and (min-width: 48.063em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/components\/_main-navigation\.scss}line{font-family:\00003127}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/components\/_main-navigation\.scss}line{font-family:\00003131}}
   .sideMenuContainer {
     left: 0;
     padding: 0;
@@ -4809,7 +4808,7 @@ nav.main-nav a {
   }
 }
 @media only screen and (min-width: 48.063em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/components\/_main-navigation\.scss}line{font-family:\00003127}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/components\/_main-navigation\.scss}line{font-family:\00003131}}
   .sideMenuContainer {
     max-width: 1200px;
     margin: 0 auto;
@@ -4818,7 +4817,7 @@ nav.main-nav a {
   }
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/components\/_main-navigation\.scss}line{font-family:\00003156}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/components\/_main-navigation\.scss}line{font-family:\00003160}}
 .mobileButtonOpen {
   -moz-transition: left 0.7s ease, background-position 0.7s ease;
   -webkit-transition: left 0.7s ease, background-position 0.7s ease;
@@ -4828,31 +4827,31 @@ nav.main-nav a {
   display: block;
   cursor: pointer;
   position: absolute;
-  left: 10px;
+  left: 20px;
   top: -20px;
   z-index: 21;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/components\/_main-navigation\.scss}line{font-family:\00003164}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/components\/_main-navigation\.scss}line{font-family:\00003168}}
 .mobileButtonOpen:before {
   content: "\f0c9";
+  color: #ccc;
   display: block;
   font-family: 'FontAwesome';
-  font-size: 2em;
+  font-size: 3em;
   height: 30px;
   width: 30px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/components\/_main-navigation\.scss}line{font-family:\00003173}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/components\/_main-navigation\.scss}line{font-family:\00003178}}
 .mobileButtonOpen.is-active {
   left: 90%;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/components\/_main-navigation\.scss}line{font-family:\00003175}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/components\/_main-navigation\.scss}line{font-family:\00003180}}
 .mobileButtonOpen.is-active:before {
   content: "\f100";
-  color: #ffffff;
-  font-size: 2rem;
+  font-size: 4em;
 }
 @media only screen and (min-width: 48.063em) {
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/components\/_main-navigation\.scss}line{font-family:\00003156}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/components\/_main-navigation\.scss}line{font-family:\00003160}}
   .mobileButtonOpen {
     display: none;
   }
@@ -4910,7 +4909,7 @@ footer.page-footer .footer-container .inner .device {
 footer.page-footer .footer-container .inner p {
   font-size: 1.5em;
   line-height: 150%;
-  color: #00FF00;
+  color: #ccc;
   padding-bottom: 0;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/components\/_page-footer\.scss}line{font-family:\0000339}}
@@ -5115,8 +5114,8 @@ header.masthead ul li a {
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
   box-shadow: 0 3px 0 0 #00d90f ;
-  background-color: #00FF00;
-  border: 2px solid #00FF00;
+  background-color: #ccc;
+  border: 2px solid #ccc;
   border-bottom: none;
   color: #000000;
   display: block;
@@ -5201,7 +5200,7 @@ header.masthead ul li a {
 .secondary.secondary:hover,
 .secondary.secondary:focus,
 .secondary.secondary:active {
-  background-color: #00FF00;
+  background-color: #ccc;
   text-decoration: none;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/components\/_buttons\.scss}line{font-family:\0000350}}
@@ -5229,7 +5228,7 @@ header.masthead ul li a {
 .link-list li:before,
 .icon-list li:before {
   border-radius: 50%;
-  background: #00FF00;
+  background: #ccc;
   content: "";
   height: 5px;
   left: 0;
@@ -6546,14 +6545,14 @@ input {
 @media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/components\/_forms\.scss}line{font-family:\0000317}}
 input.input-field {
   border: 1px solid transparent;
-  border-bottom: 1px solid #00FF00;
+  border-bottom: 1px solid #ccc;
   font-size: 1.6em;
   padding: 10px;
   outline: 0;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/components\/_forms\.scss}line{font-family:\0000323}}
 input.input-field:focus {
-  border-left: 3px solid #00FF00;
+  border-left: 3px solid #ccc;
   outline: 0;
 }
 
@@ -6562,14 +6561,14 @@ textarea {
   font-size: 1.6em;
   font-family: 'Raleway', sans-serif;
   border: 0;
-  border-bottom: 1px solid #00FF00;
+  border-bottom: 1px solid #ccc;
   padding: 10px;
   outline: 0;
   background: #eeeeee;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/components\/_forms\.scss}line{font-family:\0000337}}
 textarea:focus {
-  border-left: 3px solid #00FF00;
+  border-left: 3px solid #ccc;
   outline: 0;
 }
 
@@ -6607,7 +6606,7 @@ textarea:focus {
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/components\/_forms\.scss}line{font-family:\0000373}}
 .radio-buttons input[type="radio"]:checked + label:after {
-  background: #00FF00;
+  background: #ccc;
   border: 1px solid #000000;
   border-radius: 100%;
   content: "";
@@ -6676,7 +6675,7 @@ textarea:focus {
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/components\/_forms\.scss}line{font-family:\00003141}}
 .checkbox input[type="checkbox"]:checked + label:after {
-  background: #00FF00;
+  background: #ccc;
   border-radius: 1px;
   content: "";
   display: inline-block;
@@ -6819,11 +6818,11 @@ textarea:focus {
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/components\/_overlay\.scss}line{font-family:\0000318}}
 .image-overlay .content h2 {
-  color: #00FF00;
+  color: #ccc;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/components\/_overlay\.scss}line{font-family:\0000321}}
 .image-overlay .content a {
-  color: #00FF00;
+  color: #ccc;
   text-decoration: none;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/components\/_overlay\.scss}line{font-family:\0000325}}
@@ -6950,7 +6949,7 @@ textarea:focus {
   border: 1px solid black;
   cursor: pointer;
   display: inline-block;
-  width: 100%;
+  width: 70%;
 }
 @media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/components\/_flip-card\.scss}line{font-family:\0000333}}
 .notecard .front {
@@ -7446,12 +7445,13 @@ body.lb-disable-scrolling {
 @media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/components\/_body-themes\.scss}line{font-family:\000032}}
 .body.sent-mail-bg {
   background: url("../images/background/sent-mail.jpg") no-repeat;
+  background-size: cover;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/components\/_body-themes\.scss}line{font-family:\000035}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/components\/_body-themes\.scss}line{font-family:\000036}}
 .body.location {
   background-image: url("../images/background/map-overlay.jpg");
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/components\/_body-themes\.scss}line{font-family:\000037}}
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/components\/_body-themes\.scss}line{font-family:\000038}}
 .body.location p, .body.location .heading {
   color: #ffffff;
 }

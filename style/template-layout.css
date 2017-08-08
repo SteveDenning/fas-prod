@@ -4243,12 +4243,6 @@
   }
 }
 
-@media screen, projection {
-@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/_base\.scss}line{font-family:\0000378}}
-  .major-padding {
-    padding-bottom: 350px;
-  }
-}
 @media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/template-layout\.scss}line{font-family:\0000312}}
 * {
   padding: 0;
@@ -4387,7 +4381,7 @@ table tr td.complete {
 @media -sass-debug-info{filename{font-family:file\:\/\/D\:\/GIT-HUB\/fas-dev\/sass\/template-layout\.scss}line{font-family:\00003117}}
 .page-wrapper {
   padding: 20px;
-  border: 5px solid #eee;
+  border: 1px solid #ccc;
   margin-top: 20px;
 }
 
